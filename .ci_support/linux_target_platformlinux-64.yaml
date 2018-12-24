@@ -7,4 +7,4 @@ channel_targets:
 docker_image:
 - condaforge/linux-anvil
 target_platform:
-- linux-64
+- linux-aarch64
